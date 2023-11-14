@@ -18,7 +18,7 @@ Auto install AD 3 proxy on following linux OS.
 To install, run the script
 
 ```
-wget https://raw.githubusercontent.com/flexeere/AD-Proxy/main/squid3-install.sh -O squid3-install.sh
+wget https://raw.githubusercontent.com/flexeere/AD-Proxy-8000/main/squid3-install.sh -O squid3-install.sh
 bash squid3-install.sh
 ```
 
