@@ -1,8 +1,8 @@
-# AD Proxy Installer
+# Yeti Proxy Installer
 
 https://flexeere.com
 
-Auto install AD 3 proxy on following linux OS.
+Auto install Yeti 3 proxy on following linux OS.
 
 * Ubuntu 14.04, 16.04, 18.04, 20.04, 22.04
 * Debian 8, 9, 10, 11, 12
@@ -13,7 +13,7 @@ Auto install AD 3 proxy on following linux OS.
 * Port : 8000
 
 
-## Install AD
+## Install Yeti
 
 To install, run the script
 
